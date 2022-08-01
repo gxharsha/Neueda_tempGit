@@ -7,4 +7,4 @@ second para
 ```
 <h1> Hello World! </h1>
 ```
-! [wallpaper](Images/wp1.jpg)
+![wallpaper](Images/wp1.jpg)
